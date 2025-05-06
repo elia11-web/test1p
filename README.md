@@ -1,1 +1,2 @@
-# A new readme file from browser
+# A new .readMe file from browser
+This is a trial
